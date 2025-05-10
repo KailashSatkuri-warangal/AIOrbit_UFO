@@ -1,5 +1,5 @@
 # AIOrbit_UFO
-
+![Preview](https://raw.githubusercontent.com/KailashSatkuri-warangal/AIOrbit_UFO/main/image.png)
 ![AIOrbit_UFO](https://img.shields.io/badge/Streamlit-App-blue)  
 ![GitHub Stars](https://img.shields.io/github/stars/KailashSatkuri-warangal/AIOrbit_UFO?style=social)  
 
